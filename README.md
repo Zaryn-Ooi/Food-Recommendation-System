@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/86367657/173479854-ae0108dd-f9d4-4980-bbc8-ea44d82f0c49.png)
 
 ## Project Overview: 
-In this project, we built a food recommendation system to help users decide which restaurant to visit based on the user review.
+In this project, we built a food recommendation system to help users decide which restaurant to visit based on the user reviews.
 
 ## Dataset Description
 ### Data Source -
